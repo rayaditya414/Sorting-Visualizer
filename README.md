@@ -6,4 +6,6 @@ Following Algorithms can be visualized:
 --Insertion Sort
 --Quick Sort
 --Merge Sort
+Hope you enjoy it visualizing as much as i found making it.
+You can visit it here: https://rayaditya414.github.io/Sorting-Visualizer/
 
